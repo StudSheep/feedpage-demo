@@ -1,0 +1,2 @@
+- feedpage var returns a list of posts, each post have an id which can be fetched
+- fetched post returns: userid, title, content
